@@ -1,0 +1,8 @@
+# uname command
+## Basic Knowledge
+- Is a utility in Unix-like operating systems that stands for "Unix Name".
+- It is used to retrieve information about the operating system and system environment 
+
+### uname without options
+- When you run the `uname` command without any options or arguments, it typically displays the name of the operating system kernel
+
